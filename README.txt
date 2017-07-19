@@ -1,1 +1,1 @@
-Библитоеки для работы с Altium Designer
+Libs for Altium Designer
